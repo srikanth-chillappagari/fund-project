@@ -1,6 +1,6 @@
-#Java Project
+# Fund Project
 
-*Project for creating Java applications which do coomon tasks.*
+*This is is for funding the project.*
 
 **Java 7**
 
